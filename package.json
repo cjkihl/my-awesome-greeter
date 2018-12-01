@@ -31,11 +31,12 @@
   "homepage": "https://github.com/caki0915/my-awesome-greeter#readme",
   "devDependencies": {
     "@types/jest": "^22.2.3",
-    "jest": "^23.0.1",
+    "jest": "^23.6.0",
     "prettier": "^1.13.2",
     "ts-jest": "^22.4.6",
     "tslint": "^5.10.0",
     "tslint-config-prettier": "^1.13.0",
     "typescript": "^2.8.3"
-  }
+  },
+  "files":["lib/**/*"]
 }
